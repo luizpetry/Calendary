@@ -10,7 +10,7 @@ const Navigation = () => {
         <div className="flex items-center gap-2">
           <CalendarIcon className="h-5 w-5" />
           <Link to="/">
-            <span className="font-medium cursor-pointer">Calendário Minimalista</span>
+            <span className="font-medium cursor-pointer">Calendário Interativo</span>
           </Link>
         </div>
       </div>
